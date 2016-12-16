@@ -1,0 +1,18 @@
+2016-12-16 16:20:44 INFO  ASTCustomLogger:39 - OIM Connection Detail::{java.naming.provider.url=t3://192.168.56.110:14000, java.naming.factory.initial=weblogic.jndi.WLInitialContextFactory}
+2016-12-16 16:20:50 INFO  ASTCustomLogger:39 - Successfully Connected with OIMServer1Connection 
+2016-12-16 16:20:50 INFO  ASTCustomLogger:39 - UpdateQnADetail Method Executing......
+2016-12-16 16:20:50 INFO  ASTCustomLogger:39 - Processed  Map with QnA:: {City of birth=montego bay, Mother's maiden name=brown, Last 4 digits of SSN=7168}
+2016-12-16 16:20:50 INFO  ASTCustomLogger:39 - User found in OIM :: usr_key :: 8071:: usrLogin :: CAPTESTUSER25
+2016-12-16 16:20:50 INFO  ASTCustomLogger:39 - Updating QnA for user:: CAPTESTUSER25 :: {City of birth=montego bay, Mother's maiden name=brown, Last 4 digits of SSN=7168}
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - Updated user successfully
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - Processed  Map with QnA:: {Mother's maiden name=manlove, Undergraduate major=biology, First car=malibu}
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - User not found in OIM :: aschaad
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - Processed  Map with QnA:: {City of birth=Rome, First car=Honda CRX, Best childhood friend's first name=Casey}
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - User found in OIM :: usr_key :: 9052:: usrLogin :: CAPTESTUSER26
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - Updating QnA for user:: CAPTESTUSER26 :: {City of birth=Rome, First car=Honda CRX, Best childhood friend's first name=Casey}
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - Updated user successfully
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - User's QnA Updated successfully, Total count :: 2
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - User's QnA Not Updated successfully, Total count :: 1
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - UpdateQnADetail Method Exit......
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 - Total time taken::8368
+2016-12-16 16:20:52 INFO  ASTCustomLogger:39 -  Utility Exit......

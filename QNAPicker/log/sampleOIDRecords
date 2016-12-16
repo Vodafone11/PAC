@@ -1,0 +1,27 @@
+>>>>>>uid: aschaad
+>>>>>>securityquestions: Question1=Undergraduate major, Question2=First car, Question3=Mother's maiden name
+>>>>>>securityanswers: Answer3=manlove, Answer2=malibu, Answer1=biology
+2016-12-16 02:10:01 INFO  ASTCustomLogger:39 - uid: aschaad::securityquestions: Question1=Undergraduate major, Question2=First car, Question3=Mother's maiden name::securityanswers: Answer3=manlove, Answer2=malibu, Answer1=biology
+securityquestions: Question1=Undergraduate major, Question2=First car, Question3=Mother's maiden name
+securityanswers: Answer3=manlove, Answer2=malibu, Answer1=biology
+>>>cn=Aleighh,cn=External,cn=Users
+>>>>>>uid: Aleighh
+>>>>>>securityquestions: Question3=First car, Question2=Mother's maiden name, Question1=Last 4 digits of SSN
+>>>>>>securityanswers: Answer2=strickler, Answer1=7071, Answer3=chevy
+2016-12-16 02:10:01 INFO  ASTCustomLogger:39 - uid: Aleighh::securityquestions: Question3=First car, Question2=Mother's maiden name, Question1=Last 4 digits of SSN::securityanswers: Answer2=strickler, Answer1=7071, Answer3=chevy
+securityquestions: Question3=First car, Question2=Mother's maiden name, Question1=Last 4 digits of SSN
+securityanswers: Answer2=strickler, Answer1=7071, Answer3=chevy
+>>>cn=ariley,cn=External,cn=Users
+>>>>>>uid: ariley
+>>>>>>securityquestions: Question2=City of birth, Question1=Best childhood friend's first name, Question3=First car
+>>>>>>securityanswers: Answer3=Honda CRX, Answer2=Rome, Answer1=Casey
+2016-12-16 02:10:01 INFO  ASTCustomLogger:39 - uid: ariley::securityquestions: Question2=City of birth, Question1=Best childhood friend's first name, Question3=First car::securityanswers: Answer3=Honda CRX, Answer2=Rome, Answer1=Casey
+securityquestions: Question2=City of birth, Question1=Best childhood friend's first name, Question3=First car
+securityanswers: Answer3=Honda CRX, Answer2=Rome, Answer1=Casey
+>>>cn=AMANDA.WEBER@PHCI.ORG,cn=External,cn=Users
+>>>>>>uid: AMANDA.WEBER@PHCI.ORG
+>>>>>>securityquestions: Question2=City of birth, Question1=Best childhood friend's first name, Question3=First car
+>>>>>>securityanswers: Answer1=KARI, Answer2=MANISTIQUE, Answer3=JEEP
+2016-12-16 02:10:01 INFO  ASTCustomLogger:39 - uid: AMANDA.WEBER@PHCI.ORG::securityquestions: Question2=City of birth, Question1=Best childhood friend's first name, Question3=First car::securityanswers: Answer1=KARI, Answer2=MANISTIQUE, Answer3=JEEP
+securityquestions: Question2=City of birth, Question1=Best childhood friend's first name, Question3=First car
+securityanswers: Answer1=KARI, Answer2=MANISTIQUE, Answer3=JEEP
